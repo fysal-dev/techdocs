@@ -1,6 +1,6 @@
 ---
 slug: useRef post
-title: useRef Post
+title: useRef
 authors: faisal
 tags: [react js, useRef]
 ---
