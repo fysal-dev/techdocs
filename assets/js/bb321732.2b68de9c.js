@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktechdocs=self.webpackChunktechdocs||[]).push([[615],{1426:e=>{e.exports=JSON.parse('[{"label":"react js","permalink":"/techdocs/blog/tags/react-js","count":1},{"label":"useRef","permalink":"/techdocs/blog/tags/use-ref","count":1}]')}}]);

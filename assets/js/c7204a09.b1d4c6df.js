@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechdocs=self.webpackChunktechdocs||[]).push([[3084],{8018:e=>{e.exports=JSON.parse('{"permalink":"/techdocs/blog/tags/use-ref","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
