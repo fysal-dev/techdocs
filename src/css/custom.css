@@ -28,6 +28,7 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #42e9ff;
@@ -39,6 +40,7 @@
   --ifm-color-primary-lightest: #a2f4ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
 /* [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -50,46 +52,66 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 } */
 
-.avatarImg{
+.avatarImg {
   border-radius: 50%;
   height: 150px;
 }
 
 
 
-.homepage-body > .hero--primary{
+.homepage-body>.hero--primary {
   background-color: #fff !important;
   color: #154e9c !important;
-  
+
 }
 
 [data-theme='dark'] {
-  .homepage-body > .hero--primary{
-    padding-top:20px;
+  .homepage-body>.hero--primary {
+    padding-top: 20px;
     background-color: #282e39 !important;
     color: silver !important;
   }
+
+  .highlight {
+    color: #ff8686;
+    font-weight: 600;
+  }
+
+  .markdown>pre,
+  .markdown>ul,
+  .markdown>p {
+    font-size: larger;
+  }
 }
 
-.home-paragraph{
+.home-paragraph {
   font-size: large;
   font-weight: 600;
 }
 
-.home-paragraph span{
+.home-paragraph span {
   display: block;
+}
+.highlight {
+  color: #c90303;
+  font-weight: 600;
+}
+
+.markdown>pre,
+.markdown>ul,
+.markdown>p {
+  font-size: larger;
 }
 
 @media (min-width: 768px) {
-  .content-left{
+  .content-left {
     width: 20%;
     float: left;
   }
-  
-  .content-right{
+
+  .content-right {
     width: 80%;
     float: right;
     text-align: left;
   }
 }
-
