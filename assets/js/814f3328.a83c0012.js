@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechdocs=self.webpackChunktechdocs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Axios Interceptor","permalink":"/techdocs/blog/axios interceptor post"},{"title":"useRef","permalink":"/techdocs/blog/useRef post"}]}')}}]);
