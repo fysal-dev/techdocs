@@ -65,24 +65,23 @@
 
 }
 
-[data-theme='dark'] {
-  .homepage-body>.hero--primary {
-    padding-top: 20px;
-    background-color: #282e39 !important;
-    color: silver !important;
-  }
-
-  .highlight {
-    color: #ff8686;
-    font-weight: 600;
-  }
-
-  .markdown>pre,
-  .markdown>ul,
-  .markdown>p {
-    font-size: larger;
-  }
+[data-theme='dark'] .homepage-body>.hero--primary {
+  padding-top: 20px;
+  background-color: #282e39 !important;
+  color: silver !important;
 }
+
+[data-theme='dark'] .highlight {
+  color: #ff8686;
+  font-weight: 600;
+}
+
+[data-theme='dark'] .markdown>pre,
+.markdown>ul,
+.markdown>p {
+  font-size: larger;
+}
+
 
 .home-paragraph {
   font-size: large;
@@ -92,6 +91,7 @@
 .home-paragraph span {
   display: block;
 }
+
 .highlight {
   color: #c90303;
   font-weight: 600;

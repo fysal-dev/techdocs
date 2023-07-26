@@ -1,6 +1,6 @@
 ---
 slug: axios interceptor post
-title: axios interceptor
+title: Axios Interceptor
 authors: faisal
 tags: [react js, axios, axios interceptor]
 ---

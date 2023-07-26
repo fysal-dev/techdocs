@@ -7,8 +7,8 @@ tags: [react js, useRef]
 
 # useRef
 
-* useRef will store the **element, not value**, for storing value, we should use `useState`
-* using useRef, you can access the object which contains `.current`
+* useRef will store the <span class='highlight'>**element, not value**</span>, for storing value, we should use `useState`
+* using useRef, you can access the object which contains <span class='highlight'>.current</span>
 * `useRef` will never show the modified value at re-render
 
 ## Returns

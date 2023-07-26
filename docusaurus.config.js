@@ -73,7 +73,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/fy-logo.jpg',
       navbar: {
-        title: '{ dev }',
+        title: '{ fysal-dev }',
         logo: {
           alt: 'My Site Logo',
           src: 'img/fy-logo.jpg',
